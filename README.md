@@ -16,5 +16,9 @@
 <a href="https://www.markdownguide.org/"> <img src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" width = "45"/> </a>&nbsp;
 <a href="https://www.markdownguide.org/"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_plain_logo_icon_146573.png" width = "45"/> </a>&nbsp;
 <a href="https://www.markdownguide.org/"> <img src="https://pics.freeicons.io/uploads/icons/png/8575147831553750379-512.png" width = "50"/> </a>&nbsp;
+<a href="https://www.markdownguide.org/"> <img src="https://cdn.iconscout.com/icon/free/png-512/handlebars-1-285290.png" width = "40"/> </a>&nbsp;
+<a href="https://www.markdownguide.org/"> <img src="https://freepikpsd.com/media/2019/10/bootstrap-logo-png-1-Transparent-Images-Free.png" width = "40"/> </a>&nbsp;
 <a href="https://www.markdownguide.org/"> <img src="https://d33wubrfki0l68.cloudfront.net/f1f475a6fda1c2c4be4cac04033db5c3293032b4/513a4/assets/images/markdown-mark-white.svg" width = "50"/> </a>&nbsp;
-
+<a href="https://www.markdownguide.org/"> <img src="https://www.pngix.com/pngfile/big/511-5114835_mongodb-leaf-mongodb-leaf-512x5122x-mongodb-icon-hd.png" width = "25"/> </a>&nbsp;
+<a href="https://www.markdownguide.org/"> <img src="https://i.pinimg.com/originals/09/7b/34/097b349ab1d78c15744c3a89ff457939.png" width = "50"/> </a>&nbsp;
+<a href="https://www.markdownguide.org/"> <img src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png" width = "40"/> </a>&nbsp;
